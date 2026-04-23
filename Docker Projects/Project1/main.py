@@ -1,0 +1,1 @@
+print("Hello, This Docker project is working fine!")
