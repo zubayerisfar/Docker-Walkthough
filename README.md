@@ -1,4 +1,4 @@
-# Docker Walkthroug
+# Docker Walkthrough
 
 Welcome to the Docker Walkthrough! This comprehensive guide will take you from Docker basics to advanced containerization techniques. Whether you're new to Docker or looking to deepen your knowledge, this tutorial series has something for you.
 
